@@ -1,5 +1,6 @@
 {
-  "name": "digital-human",
+  "name": "branch",
+  "author": "shubhamxshah",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
