@@ -11,7 +11,7 @@
   "scripts": {
     "client": "yarn --cwd apps/frontend dev",
     "server": "yarn --cwd apps/backend dev",
-    "dev": "npm-run-all --parallel client server"
+    "dev": "node init && npm-run-all --parallel client server"
   },
   "devDependencies": {
     "nodemon": "^3.0.3",

@@ -1,5 +1,19 @@
 https://github.com/shubhamxshah/Branch/assets/29262782/da316db9-6dd1-4475-9fe5-39dafbeb3cc4
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/shubhamxshah/Branch/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
+[![Stars](https://img.shields.io/github/stars/shubhamxshah/Branch?style=social)](https://github.com/shubhamxshah/Branch)
+[![Last Commit](https://img.shields.io/github/last-commit/shubhamxshah/Branch)](https://github.com/shubhamxshah/Branch/commits/main)
+
+## Table of Contents
+
+- [Overview](#digital-human)
+- [How it Operates](#how-it-operates)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+- [References](#references)
+
 ## Digital Human
 
 This project is a digital human that can talk and listen to you. It uses OpenAI's GPT-3 to generate responses, OpenAI's
